@@ -1,5 +1,5 @@
 #include<iostream>
-#include<stdlib.h> /* srand, rand */
+#include<stdlib.h> /*srand, rand*/
 #include<time.h>
 #include<fstream>
 #include<Windows.h>
