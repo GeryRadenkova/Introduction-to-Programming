@@ -30,12 +30,19 @@ After marking a square (at position <6, 2>) (obviously containing a mine), the c
 ](https://lh3.googleusercontent.com/mrv3WXtPIEzIuSb57Co1ZZlbDT1kM6AAUFAbiwaIvlvkJLrxX4PcgWL4k38wNA4PZVKIFHbjtg "image4")
 
 **Some error messages:**
+
+
 ![
 ](https://lh3.googleusercontent.com/RNFQINrOJIQYwwp53FFeT4FzaI7AYqxVcImXD5gJWEQE9Wrksa4MQg-Lgt-MknNoqpXyfnjw-g "image5")
 **Unmarking example:**
+
+
 ![enter image description here](https://lh3.googleusercontent.com/DS1vIPPoQVFzc5bzAhp9IV1YLGfSSxnF_s_Y27dQ0gfM_HLu9HB3YSoUXUYe5pboFU-xfzYgIA "image6")
 
 **Winning the game:**
+
+
+
 ![
 ](https://lh3.googleusercontent.com/ERCCxtuJNvOj_Sq0HhhbfoEinsAKaRo_JWYsT-gdVwNG9rA3Gwt6iL77BUtreETEE8zoqYJfvw "image7")
 
