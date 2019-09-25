@@ -26,8 +26,8 @@ We can choose from 3 levels of levels of difficulty:
 After marking a square (at position <6, 2>) (obviously containing a mine), the count of the remaining mines is updated.
 
 
-![]
-(https://lh3.googleusercontent.com/9XbqU4CYg5jiNP6dvIXHGN38WuwQliGk3WbAS8qMyyZiSdC-vhhbZOhzAiRdVDgNwC41KNfe2Q "image4")
+![
+](https://lh3.googleusercontent.com/9XbqU4CYg5jiNP6dvIXHGN38WuwQliGk3WbAS8qMyyZiSdC-vhhbZOhzAiRdVDgNwC41KNfe2Q "image4")
 
 **Some error messages:**
 
