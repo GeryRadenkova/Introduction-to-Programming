@@ -34,6 +34,7 @@ After marking a square (at position <6, 2>) (obviously containing a mine), the c
 
 ![
 ](https://lh3.googleusercontent.com/RNFQINrOJIQYwwp53FFeT4FzaI7AYqxVcImXD5gJWEQE9Wrksa4MQg-Lgt-MknNoqpXyfnjw-g "image5")
+
 **Unmarking example:**
 
 
