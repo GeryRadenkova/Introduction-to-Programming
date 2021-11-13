@@ -52,10 +52,7 @@ YES
 валидна дума в str. Валидна дума наричаме всяка последователност от малки и големи 
 латински букви, като между тях може да има тирета.
 ```
-Вход: 
-Ima6е kozel v zadniq dvor na Ivan.
--Da - kaza Ivan-Aleksandur. 
-Изход: 
-amI6е lezok v qindaz rovd an navI.
--aD - azak rudnaskelA-navI.
+Вход:                                          Изход: 
+Ima6е kozel v zadniq dvor na Ivan.             amI6е lezok v qindaz rovd an navI.
+-Da - kaza Ivan-Aleksandur.                    -aD - azak rudnaskelA-navI.
 ```
